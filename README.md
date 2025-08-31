@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Exquisite Madiwa Flavors</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Poppins', sans-serif;
-        }
-        
-        :root {
-            --primary-blue: #0c4da2;
-            --dark-blue: #0a192f;
-            --gold: #f59e0b;
-            --light-bg: rgba(255, 255, 255, 0.05);
-            --light-text: #f8f8f8;
-            --dark-text: #1e293b;
-        }
-        
-        body {
-            background: linear-gradient(135deg, var(--dark-blue) 0%, #1e3a8a 100%);
             color: var(--light-text);
             line-height: 1.6;
             padding-bottom: 80px;
